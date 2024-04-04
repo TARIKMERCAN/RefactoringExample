@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/mercan/.dotnet/store/|arch|/|tfm|",
+      "/Users/mercan/.nuget/packages"
+    ]
+  }
+}

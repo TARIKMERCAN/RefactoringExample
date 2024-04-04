@@ -1,0 +1,20 @@
+/Users/pgago/Projects/PJATK/classes-materials/APBD/lecture_3/zadanie_solution/LegacyApp/bin/Debug/netcoreapp3.1/LegacyApp.deps.json
+/Users/pgago/Projects/PJATK/classes-materials/APBD/lecture_3/zadanie_solution/LegacyApp/bin/Debug/netcoreapp3.1/LegacyApp.dll
+/Users/pgago/Projects/PJATK/classes-materials/APBD/lecture_3/zadanie_solution/LegacyApp/bin/Debug/netcoreapp3.1/LegacyApp.pdb
+/Users/pgago/Projects/PJATK/classes-materials/APBD/lecture_3/zadanie_solution/LegacyApp/obj/Debug/netcoreapp3.1/LegacyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pgago/Projects/PJATK/classes-materials/APBD/lecture_3/zadanie_solution/LegacyApp/obj/Debug/netcoreapp3.1/LegacyApp.AssemblyInfoInputs.cache
+/Users/pgago/Projects/PJATK/classes-materials/APBD/lecture_3/zadanie_solution/LegacyApp/obj/Debug/netcoreapp3.1/LegacyApp.AssemblyInfo.cs
+/Users/pgago/Projects/PJATK/classes-materials/APBD/lecture_3/zadanie_solution/LegacyApp/obj/Debug/netcoreapp3.1/LegacyApp.csproj.CoreCompileInputs.cache
+/Users/pgago/Projects/PJATK/classes-materials/APBD/lecture_3/zadanie_solution/LegacyApp/obj/Debug/netcoreapp3.1/LegacyApp.sourcelink.json
+/Users/pgago/Projects/PJATK/classes-materials/APBD/lecture_3/zadanie_solution/LegacyApp/obj/Debug/netcoreapp3.1/LegacyApp.dll
+/Users/pgago/Projects/PJATK/classes-materials/APBD/lecture_3/zadanie_solution/LegacyApp/obj/Debug/netcoreapp3.1/LegacyApp.pdb
+/Users/mercan/Downloads/zadanie_solution 2/LegacyApp/bin/Debug/netcoreapp3.1/LegacyApp.deps.json
+/Users/mercan/Downloads/zadanie_solution 2/LegacyApp/bin/Debug/netcoreapp3.1/LegacyApp.dll
+/Users/mercan/Downloads/zadanie_solution 2/LegacyApp/bin/Debug/netcoreapp3.1/LegacyApp.pdb
+/Users/mercan/Downloads/zadanie_solution 2/LegacyApp/obj/Debug/netcoreapp3.1/LegacyApp.csproj.AssemblyReference.cache
+/Users/mercan/Downloads/zadanie_solution 2/LegacyApp/obj/Debug/netcoreapp3.1/LegacyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mercan/Downloads/zadanie_solution 2/LegacyApp/obj/Debug/netcoreapp3.1/LegacyApp.AssemblyInfoInputs.cache
+/Users/mercan/Downloads/zadanie_solution 2/LegacyApp/obj/Debug/netcoreapp3.1/LegacyApp.AssemblyInfo.cs
+/Users/mercan/Downloads/zadanie_solution 2/LegacyApp/obj/Debug/netcoreapp3.1/LegacyApp.csproj.CoreCompileInputs.cache
+/Users/mercan/Downloads/zadanie_solution 2/LegacyApp/obj/Debug/netcoreapp3.1/LegacyApp.dll
+/Users/mercan/Downloads/zadanie_solution 2/LegacyApp/obj/Debug/netcoreapp3.1/LegacyApp.pdb

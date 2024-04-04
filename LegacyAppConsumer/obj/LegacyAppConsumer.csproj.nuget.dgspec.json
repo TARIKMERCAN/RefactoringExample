@@ -1,0 +1,154 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mercan/Downloads/zadanie_solution 2/LegacyAppConsumer/LegacyAppConsumer.csproj": {}
+  },
+  "projects": {
+    "/Users/mercan/Downloads/zadanie_solution 2/LegacyApp/LegacyApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mercan/Downloads/zadanie_solution 2/LegacyApp/LegacyApp.csproj",
+        "projectName": "LegacyApp",
+        "projectPath": "/Users/mercan/Downloads/zadanie_solution 2/LegacyApp/LegacyApp.csproj",
+        "packagesPath": "/Users/mercan/.nuget/packages/",
+        "outputPath": "/Users/mercan/Downloads/zadanie_solution 2/LegacyApp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mercan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/mercan/.dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mercan/Downloads/zadanie_solution 2/LegacyAppConsumer/LegacyAppConsumer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mercan/Downloads/zadanie_solution 2/LegacyAppConsumer/LegacyAppConsumer.csproj",
+        "projectName": "LegacyAppConsumer",
+        "projectPath": "/Users/mercan/Downloads/zadanie_solution 2/LegacyAppConsumer/LegacyAppConsumer.csproj",
+        "packagesPath": "/Users/mercan/.nuget/packages/",
+        "outputPath": "/Users/mercan/Downloads/zadanie_solution 2/LegacyAppConsumer/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mercan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/mercan/Downloads/zadanie_solution 2/LegacyApp/LegacyApp.csproj": {
+                "projectPath": "/Users/mercan/Downloads/zadanie_solution 2/LegacyApp/LegacyApp.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "version": "[3.1.32, 3.1.32]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/mercan/.dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

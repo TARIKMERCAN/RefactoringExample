@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vbh6xdj4omzDUYwM6ZK5tjluaFxiHg7Pf5V/Bz3/pJLTNdhuhTmvgWvdTxyxRb5OCtZR/Vz6pzQQlpsrNfbWpg==",
+  "success": true,
+  "projectFilePath": "/Users/mercan/Downloads/zadanie_solution 2/LegacyApp/LegacyApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/mercan/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
+    "/Users/mercan/.nuget/packages/microsoft.netcore.platforms/3.1.0/microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "/Users/mercan/.nuget/packages/microsoft.win32.registry/4.7.0/microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "/Users/mercan/.nuget/packages/moq/4.20.70/moq.4.20.70.nupkg.sha512",
+    "/Users/mercan/.nuget/packages/system.diagnostics.eventlog/4.7.0/system.diagnostics.eventlog.4.7.0.nupkg.sha512",
+    "/Users/mercan/.nuget/packages/system.security.accesscontrol/4.7.0/system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "/Users/mercan/.nuget/packages/system.security.principal.windows/4.7.0/system.security.principal.windows.4.7.0.nupkg.sha512",
+    "/Users/mercan/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/Users/mercan/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
